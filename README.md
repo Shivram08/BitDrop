@@ -239,7 +239,7 @@ Chrome_Extension/bitcoin-donation-extension
 
 ## Demo
 
-[BitDrop Chrome and Safari Demo](https://www.youtube.com/watch?v=cBowsZzl6Go)
+[BitDrop Safari Demo](https://www.youtube.com/watch?v=cBowsZzl6Go)
 
 ---
 
